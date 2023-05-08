@@ -3,6 +3,7 @@ Acest proiect folosește structurile de date: **graph-uri și cozi dublu înlăn
 
 Operațiile ce se pot face pe graph-uri includ: măsurarea drumului minim de la o stație la alta, măsurarea celui mai scurt drum/ celui mai lung, determinarea celui mai lung drum din rețea (fără a merge pe un drum între două stații de două ori). 
 
+Proiectul este o temă de la materia **Structuri de Date și Algoritmi**, din anul I, pe care am dezvoltat-o. Profesor Cristian Rusu.
 ## Teoria Grafurilor
 În matematică și informatică, teoria grafurilor studiază proprietățile grafurilor. Un graf este o mulțime de obiecte (numite **noduri**) legate între ele printr-o mulțime de **muchii** cărora le pot fi atribuite direcții (în acest caz, se spune că graful este **orientat**). Un graf poate fi reprezentat geometric ca o mulțime de puncte legate între ele prin linii (de obicei curbe). [^1]
 
@@ -57,6 +58,11 @@ Acum că am definit diferențele înte algoritmii Dijkstra și Kruskal, funcții
   - **nr_noduri.txt**
 
 ## Surse
+Tema de laborator SDA: Dijkstra: https://ocw.cs.pub.ro/courses/sda-aa/laboratoare/09  
+Kruskal: https://ocw.cs.pub.ro/courses/sda-aa/laboratoare/10  
 [^1]: https://ro.wikipedia.org/wiki/Teoria_grafurilor
 [^2]: https://ro.wikipedia.org/wiki/Algoritmul_lui_Dijkstra
 [^3]: https://ro.wikipedia.org/wiki/Algoritmul_lui_Kruskal
+[^4]: https://ro.wikipedia.org/wiki/Matrice_de_adiacen%C8%9B%C4%83
+
+
